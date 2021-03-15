@@ -1,0 +1,135 @@
+{
+	"car": {
+		"Yaris ATIV": {
+			"Sport Premium": 674000,
+			"Sport": 599000,
+			"Entry": 539000
+		},
+		"Yaris": {
+			"Sport Premium": 679000,
+			"Sport": 609000,
+			"Entry": 549000
+		},
+		"Vios": {
+			"High": 789000,
+			"Mid": 699000,
+			"Entry": 609000
+		},
+		"Altis": {
+			"Hybrid High": 1099000,
+			"Hybrid Mid": 989000,
+			"Hybrid Entry": 939000,
+			"GR Sport": 999000,
+			"1.6G": 879000,
+			"Limo": 839000
+		},
+		"C-HR": {
+			"HV Hi": 1159000,
+			"HV Mid": 1069000,
+			"Mid": 1039000,
+			"Entry": 979000
+		},
+		"Corolla Cross": {
+			"Hybrid Premium Safety": 1199000,
+			"Hybrid Premium": 1089000,
+			"Hybrid Smart": 1019000,
+			"1.8 Sport": 989000
+		},
+		"CAMRY": {
+			"2.5HV Premium": 1809000,
+			"2.5HV": 1649000,
+			"2.5G": 1599000,
+			"2.0G": 1455000
+		},
+		"GR Supra": {
+			"GR Supra": 5199000
+		},
+		"Hilux Revo Standard Cab": {
+			"4x2 2.4 Entry (ไม่มีกระบะ)": 544000,
+			"4x2 2.4 Entry AT (ไม่มีกระบะ)": 594000,
+			"4x2 2.4 Entry ช่วงล้อสั้น": 584000,
+			"4x2 2.4 Entry": 584000,
+			"4x2 2.4 Entry AT": 634000,
+			"4x2 2.8 Entry": 604000,
+			"4x4 2.8 Entry": 704000
+		},
+		"Hilux Revo Prerunner & 4x4": {
+			"Double Cab Prerunner 2x4 2.4 Entry": 807000,
+			"Double Cab Prerunner 2x4 2.4 Entry AT": 857000,
+			"Smart Cab Prerunner 2x4 2.4 Entry": 707000,
+			"Smart Cab Prerunner 2x4 2.4 Entry AT": 757000,
+			"Double Cab Prerunner 2x4 2.4 Mid": 872000,
+			"Double Cab Prerunner 2x4 2.4 Mid AT": 922000,
+			"Smart Cab Prerunner 2x4 2.4 Mid": 787000,
+			"Smart Cab Prerunner 2x4 2.4 Mid AT": 837000,
+			"Double Cab Prerunner 2x4 2.4 High": 959000,
+			"Double Cab Prerunner 2x4 2.4 High AT": 1009000,
+			"Smart Cab Prerunner 2x4 2.4 High": 864000,
+			"Smart Cab Prerunner 2x4 2.4 High AT": 914000,
+			"Double Cab 4x4 2.4 Mid": 957000,
+			"Smart Cab 4x4 2.4 Mid": 862000,
+			"Double Cab 4x4 2.8 High": 1109000,
+			"Smart Cab 4x4 2.8 High": 959000,
+			"Double Cab 4x4 2.8 High AT": 1159000
+		},
+		"Hilux Revo Z Edition": {
+			"Double Cab Z Edition 4x2 2.4 Mid AT": 803000,
+			"Smart Cab Z Edition 4x2 2.4 Mid AT": 743000,
+			"Double Cab Z Edition 4x2 2.4 Mid": 763000,
+			"Smart Cab Z Edition 4x2 2.4 Mid": 693000,
+			"Double Cab Z Edition 4x2 2.4 Entry AT": 739000,
+			"Smart Cab Z Edition 4x2 2.4 Entry AT": 669000,
+			"Double Cab Z Edition 4x2 2.4 Entry": 699000,
+			"Smart Cab Z Edition 4x2 2.4 Entry": 619000
+		},
+		"Hilux Revo Rocco": {
+			"Double Cab Prerunner 2x4 2.4 Rocco AT": 1079000,
+			"Smart Cab Prerunner 2x4 2.4 Rocco AT": 949000,
+			"Double Cab 4x4 2.8 Rocco AT": 1239000,
+			"Smart Cab 4x4 2.8 Rocco AT": 1079000
+		},
+		"Commuter": {
+			"Diesel 2.8 AT": 1299000,
+			"Diesel 2.8 MT": 1269000
+		},
+		"Hiace": {
+			"Hiace GL": 1079000,
+			"Hiace Panel": 999000
+		},
+		"Avanza": {
+			"1.5G A/T": 699000,
+			"1.5E A/T": 649000
+		},
+		"Sienta": {
+			"1.5V": 875000,
+			"1.5G": 765000
+		},
+		"Innova Crysta": {
+			"2.8 Crysta Premium": 1429000,
+			"2.8 Crysta": 1279000,
+			"2.0 Entry": 1199000
+		},
+		"Fortuner": {
+			"2.4G": 1349000,
+			"2.4V": 1454000,
+			"2.4V 4WD": 1524000,
+			"2.4 Legender": 1564000,
+			"2.4 Legender 4WD": 1634000,
+			"2.8 Legender": 1769000,
+			"2.8 Legender 4WD": 1839000
+		},
+		"Majesty": {
+			"Grande": 2199000,
+			"Premium": 1899000,
+			"Standard": 1709000
+		},
+		"Coaster": {
+			"Coaster": 1960000
+		},
+		"Alphard": {
+			"3.5 VIP": 5509000,
+			"2.5 HV": 4019000,
+			"Vellfire 2.5": 3889000
+		}
+	}
+}

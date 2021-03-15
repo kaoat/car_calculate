@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1000px) {
+	.select-min-table-not-show {
+		transition: linear 0.3s;
+		width: 100%;
+		float: none;
+	}
+	.select-min-table-show {
+		transition: linear 0.3s;
+		width: 50%;
+		float: left;
+	}
+	.calculate-min-table-show {
+		transition: linear 0.5s;
+		width: 50%;
+		float: right;
+	}
+}
